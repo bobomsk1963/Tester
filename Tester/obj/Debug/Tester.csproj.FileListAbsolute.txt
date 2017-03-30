@@ -1,0 +1,9 @@
+C:\C#_Программы_Разработка\2015\Фабрика\Tester\Tester\obj\Debug\Tester.csprojResolveAssemblyReference.cache
+C:\C#_Программы_Разработка\2015\Фабрика\Tester\Tester\obj\Debug\Tester.Form1.resources
+C:\C#_Программы_Разработка\2015\Фабрика\Tester\Tester\obj\Debug\Tester.Properties.Resources.resources
+C:\C#_Программы_Разработка\2015\Фабрика\Tester\Tester\obj\Debug\Tester.csproj.GenerateResource.Cache
+C:\C#_Программы_Разработка\2015\Фабрика\Tester\Tester\bin\Debug\Tester.exe
+C:\C#_Программы_Разработка\2015\Фабрика\Tester\Tester\bin\Debug\Tester.pdb
+C:\C#_Программы_Разработка\2015\Фабрика\Tester\Tester\obj\Debug\Tester.exe
+C:\C#_Программы_Разработка\2015\Фабрика\Tester\Tester\obj\Debug\Tester.pdb
+C:\C#_Программы_Разработка\2015\Фабрика\Tester\Tester\obj\Debug\Tester.FormRichTextBox.resources

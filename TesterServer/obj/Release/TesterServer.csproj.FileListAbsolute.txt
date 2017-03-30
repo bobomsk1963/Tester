@@ -1,0 +1,8 @@
+C:\C#_Программы_Разработка\2015\Фабрика\Tester\TesterServer\bin\Release\TesterServer.exe
+C:\C#_Программы_Разработка\2015\Фабрика\Tester\TesterServer\bin\Release\TesterServer.pdb
+C:\C#_Программы_Разработка\2015\Фабрика\Tester\TesterServer\obj\Release\TesterServer.csprojResolveAssemblyReference.cache
+C:\C#_Программы_Разработка\2015\Фабрика\Tester\TesterServer\obj\Release\TesterServer.Properties.Resources.resources
+C:\C#_Программы_Разработка\2015\Фабрика\Tester\TesterServer\obj\Release\TesterServer.csproj.GenerateResource.Cache
+C:\C#_Программы_Разработка\2015\Фабрика\Tester\TesterServer\obj\Release\TesterServer.exe
+C:\C#_Программы_Разработка\2015\Фабрика\Tester\TesterServer\obj\Release\TesterServer.pdb
+C:\C#_Программы_Разработка\2015\Фабрика\Tester\TesterServer\obj\Release\TesterServer.Form1Server.resources
